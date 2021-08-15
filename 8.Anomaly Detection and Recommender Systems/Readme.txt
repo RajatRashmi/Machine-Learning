@@ -17,7 +17,6 @@ fmincg.m - Function minimization routine (similar to fminunc)
 loadMovieList.m - Loads the list of movies into a cell-array
 movie ids.txt - List of movies
 normalizeRatings.m - Mean normalization for collaborative ﬁltering
-submit.m - Submission script that sends your solutions to our servers
 estimateGaussian.m - Estimate the parameters of a Gaussian distribution with a diagonal covariance matrix
 selectThreshold.m - Find a threshold for anomaly detection
 cofiCostFunc.m - Implement the cost function for collaborative ﬁltering
